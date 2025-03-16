@@ -1,0 +1,5 @@
+let MarksOfSub1 = +prompt("enter your first subject number")
+let MarksOfSub1 = +prompt("enter your first subject number")
+let MarksOfSub1 = +prompt("enter your first subject number")
+let MarksOfSub1 = +prompt("enter your first subject number")
+let MarksOfSub1 = +prompt("enter your first subject number")
