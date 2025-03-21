@@ -17,6 +17,6 @@ if (PercentageOfAllSubjects >= 90){
     document.write("B")
 }else if (PercentageOfAllSubjects >= 60){
     document.write("c")
-}else if (PercentageOfAllSubjects <= 60){
+}else (PercentageOfAllSubjects <= 60){
     document.write("Fail")
 }
