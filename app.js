@@ -4,7 +4,7 @@ let MarksOfSub3 = +prompt("enter your third subject number")
 let MarksOfSub4 = +prompt("enter your fourth subject number")
 let MarksOfSub5 = +prompt("enter your fifth subject number")
 
-let SumOfAllSubjectsNumber = MarksOfSub1 + MarksOfSub1 + MarksOfSub1 + MarksOfSub1 + MarksOfSub1
+let SumOfAllSubjectsNumber = MarksOfSub1 + MarksOfSub2 + MarksOfSub3 + MarksOfSub4 + MarksOfSub5
 let PercentageOfAllSubjects = SumOfAllSubjectsNumber /500 *100
 
 document.write (PercentageOfAllSubjects)
