@@ -19,5 +19,5 @@ if (PercentageOfAllSubjects >= 90){
     document.write("c")
 }
 else{
-    document.write( " SORRY YOU ARE Fail")
+    document.write(  " " +" SORRY YOU ARE Fail")
 }
